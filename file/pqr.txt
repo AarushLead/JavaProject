@@ -1,0 +1,2 @@
+In this example we will see how to read a file in Java using FileInputStream and BufferedInputStream. 
+Here are the detailed steps that we have taken in the below code:
